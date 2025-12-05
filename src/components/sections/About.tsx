@@ -14,7 +14,7 @@ const About = () => {
               
               <div className="space-y-4 text-muted-foreground leading-relaxed">
                 <p>
-                  Sou nutricionista funcional integrativa, com um olhar clínico voltado para sinais e sintomas, longevidade e qualidade de vida.
+                  Sou nutricionista funcional integrativa, com um olhar clínico voltado à estética corporal, sinais e sintomas, longevidade e qualidade de vida.
                 </p>
                 
                 <p>
