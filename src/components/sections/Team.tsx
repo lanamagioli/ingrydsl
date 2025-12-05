@@ -42,12 +42,12 @@ const Team = () => {
         <div className="grid md:grid-cols-3 gap-8">
           {teamMembers.map((member, index) => (
             <Card key={index} className="overflow-hidden border-0 shadow-2xl bg-beige">
-              <div className="relative h-64 bg-muted flex items-center justify-center">
+              <div className="relative h-80 bg-muted flex items-center justify-center">
                 {member.image ? (
                   <img
                     src={member.image}
                     alt={member.name}
-                    className="w-full h-full object-cover"
+                    className="w-full h-full object-cover object-top"
                   />
                 ) : (
                   <div className="w-24 h-24 rounded-full bg-primary/20 flex items-center justify-center">
