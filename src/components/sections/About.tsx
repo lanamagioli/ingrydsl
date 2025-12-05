@@ -5,7 +5,7 @@ import { openWhatsApp } from "@/lib/whatsapp";
 const About = () => {
   return <section className="py-20 px-6 bg-primary">
       <div className="max-w-6xl mx-auto">
-        <h2 className="font-serif text-4xl md:text-5xl text-center mb-16 text-primary-foreground">Quem é Ingryd?</h2>
+        <h2 className="font-serif text-4xl md:text-5xl text-center mb-16 text-primary-foreground">Quem é a Dra. Ingryd?</h2>
         
         <Card className="overflow-hidden border-0 shadow-2xl bg-beige">
           <div className="grid md:grid-cols-2 gap-0">
