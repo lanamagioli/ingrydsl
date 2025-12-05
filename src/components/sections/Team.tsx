@@ -1,11 +1,12 @@
 import { Card } from "@/components/ui/card";
+import drCaioImage from "@/assets/dr-caio.jpg";
 
 const teamMembers = [
   {
     name: "Dr. Caio",
     role: "Médico Funcional Integrativo",
     description: "Investiga a fundo as causas dos seus sintomas e contribui com uma abordagem médica funcional, que considera o corpo como um sistema interligado. Um olhar mais atento, humano e preventivo.",
-    image: null, // Placeholder for future photo
+    image: drCaioImage,
   },
   {
     name: "Rossana",
