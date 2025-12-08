@@ -105,7 +105,7 @@ const Hero = memo(() => {
                 <div className="w-9 h-9 rounded-full bg-accent/60 border-2 border-white/50" />
               </div>
               <p className="text-sm text-white/80">
-                + de <span className="font-bold text-white">200 pessoas</span> transformadas
+                + de <span className="font-bold text-white"> 500 pessoas</span> transformadas
               </p>
             </div>
           </div>
