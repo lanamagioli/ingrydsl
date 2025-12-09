@@ -4,19 +4,19 @@ import rossanaImage from "@/assets/rossana.jpg";
 import drLucasImage from "@/assets/dr-lucas.jpg";
 const teamMembers = [
   {
-    name: "Dr. Caio",
+    name: "Dr. Caio Hideki",
     role: "Médico Funcional Integrativo",
     description: "Investiga a fundo as causas dos seus sintomas e contribui com uma abordagem médica funcional, que considera o corpo como um sistema interligado. Um olhar mais atento, humano e preventivo.",
     image: drCaioImage,
   },
   {
-    name: "Rossana",
+    name: "Rossana Villani",
     role: "Nutri Personal Chef",
     description: "Transforma o plano alimentar em sabor e praticidade. Ela prepara suas refeições saudáveis no conforto da sua casa, respeitando as orientações nutricionais com afeto, leveza e sabor de comida de verdade.",
     image: rossanaImage,
   },
   {
-    name: "Dr. Lucas",
+    name: "Dr. Lucas Cardoso",
     role: "Nutricionista Especializado em Endometriose",
     description: "Aprofunda o cuidado de pacientes com endometriose, trazendo um acompanhamento nutricional personalizado para quem convive com dores, inflamações e desequilíbrios hormonais.",
     image: drLucasImage,
