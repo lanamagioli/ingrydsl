@@ -62,7 +62,6 @@ const ForWho = () => {
             data-gtm-section="for-who"
             data-gtm-action="whatsapp-click"
             className="gtm-whatsapp-button"
-            title="https://wa.me/5511941837634"
           >
             AGENDE SUA CONSULTA
           </Button>
